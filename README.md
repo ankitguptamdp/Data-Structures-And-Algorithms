@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ankitguptamdp/Data-Structures-and-Algorithms">
-    <img src="Resources/Images/Data-Structures-and-Algorithms.jpg" alt="Logo" width="110" height="70">
+    <img src="Resources/Images/Data-Structures-and-Algorithms.jpg" alt="Logo" width="1107" height="684">
   </a>
 
   <h3 align="center">Data-Structures-and-Algorithms</h3>
