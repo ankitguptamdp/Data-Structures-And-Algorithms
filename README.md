@@ -11,9 +11,10 @@
 
   <p align="center">
     A repository that contains all the Data Structures and Algorithms concepts 
+    <br />
     And solutions to various problems in Python3 stored in a structured manner !
     <br />
-    <a href="https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/Documents/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/tree/main/Codes/">View Codes</a>
