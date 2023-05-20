@@ -18,8 +18,8 @@
     <br />
     <a href="https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/tree/main/Codes/">View Codes</a>
     ·
-    <a href="ankitguptamdp@gmail.com">Report Bug</a>
+    [Contact Us](mailto:ankitguptamdp@gmail.com)
     ·
-    <a href="ankitguptamdp@gmail.com">Request Feature</a>
+    [Contact Us](mailto:ankitguptamdp@gmail.com)
   </p>
 </div>
