@@ -1,3 +1,4 @@
+﻿
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
@@ -25,28 +26,6 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |  [Solution](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Binary%20Search%20Tree/Validate%20Binary%20Search%20Tree.py) | Medium | Solved | Linked List, Two Pointers |
