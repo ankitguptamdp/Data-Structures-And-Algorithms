@@ -32,7 +32,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |  [Solution](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Binary%20Search%20Tree/Validate%20Binary%20Search%20Tree.py) | Medium | Solved | Linked List, Two Pointers |
+| 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |  [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Binary%20Search%20Tree/Validate%20Binary%20Search%20Tree.py) | Medium | Solved | Linked List, Two Pointers |
 
 </details>
 
