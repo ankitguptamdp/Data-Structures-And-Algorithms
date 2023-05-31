@@ -57,3 +57,12 @@
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Linked%20List/0328%20-%20Odd%20Even%20Linked%20List.py) | Medium | Solved | Linked List |
 
 </details>
+
+<details>
+<summary>String</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python3](link) | Easy | Solved | String, Trie |
+
+</details>
