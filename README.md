@@ -28,19 +28,30 @@
 </div>
 
 <details>
-<summary>Linked List</summary>
+<summary>Array</summary>
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |  [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Binary%20Search%20Tree/Validate%20Binary%20Search%20Tree.py) | Medium | Solved | Linked List, Two Pointers |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](link) | Medium | Add Link | Array, Two Pointers, Sorting |
 
 </details>
 
 <details>
-<summary>Math</summary>
+<summary>Hash Table</summary>
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/) |  [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Math/0202)%20Happy%20Number.py) | Easy | Solved | Hash Table, Math, Two Pointers |
+| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)| [Python3](link) | Easy | Add Link | Hash Table, Math, Two Pointers |
 
 </details>
+
+<details>
+<summary>Linked List</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python3](link) | Medium | addlink | Linked List, Two Pointers |
+
+</details>
+
+
