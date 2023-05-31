@@ -32,7 +32,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](link) | Medium | Add Link | Array, Two Pointers, Sorting |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Array/0026%20-%20Remove%20Duplicates%20from%20Sorted%20Array.py) | Easy | Add Link | Array, Two Pointers |
 
 </details>
 
@@ -41,7 +41,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)| [Python3](link) | Easy | Add Link | Hash Table, Math, Two Pointers |
+| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)| [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Hash%20Table/0202%20-%20Happy%20Number.py) | Easy | Add Link | Hash Table, Math, Two Pointers |
 
 </details>
 
