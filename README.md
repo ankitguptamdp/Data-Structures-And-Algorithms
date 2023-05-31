@@ -54,5 +54,3 @@
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Linked%20List/0019%20-%20Remove%20Nth%20Node%20From%20End%20of%20List.py) | Medium | Solved | Linked List, Two Pointers |
 
 </details>
-
-
