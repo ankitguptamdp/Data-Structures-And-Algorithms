@@ -63,6 +63,6 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python3](link) | Easy | Solved | String, Trie |
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/String/0014%20-%20Longest%20Common%20Prefix.py) | Easy | Solved | String, Trie |
 
 </details>
