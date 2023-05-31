@@ -33,6 +33,7 @@
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Array/0026%20-%20Remove%20Duplicates%20from%20Sorted%20Array.py) | Easy | Solved | Array, Two Pointers |
+| 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python3](link) | Medium | Solved | Array, Matrix, Simulation |
 
 </details>
 
