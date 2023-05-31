@@ -36,4 +36,11 @@
 
 </details>
 
+<details>
+<summary>Math</summary>
 
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/) |  [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Binary%20Search%20Tree/Validate%20Binary%20Search%20Tree.py) | Easy | Solved | Hash Table, Math, Two Pointers |
+
+</details>
