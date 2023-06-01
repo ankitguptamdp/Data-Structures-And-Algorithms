@@ -38,6 +38,15 @@
 </details>
 
 <details>
+<summary>Greedy</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python3](link) | Medium | Solved | Array, Hash Table, Greedy |
+
+</details>
+
+<details>
 <summary>Hash Table</summary>
 
 | # | Problem | Solution | Difficulty | Status | Tags |
