@@ -42,7 +42,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python3](link) | Medium | Solved | Array, Hash Table, Greedy |
+| 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Greedy/0621%20-%20Task%20Scheduler.py) | Medium | Solved | Array, Hash Table, Greedy |
 
 </details>
 
