@@ -43,6 +43,7 @@
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)| [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Hash%20Table/0202%20-%20Happy%20Number.py) | Easy | Solved | Hash Table, Math, Two Pointers |
+| 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)| [Python3](link) | Medium | Solved | Array, Hash Table, String |
 
 </details>
 
