@@ -42,6 +42,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
+| 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python3](link) | Easy | Solved | Tree, Depth-First Search |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Depth-First%20Search/0226%20-%20Invert%20Binary%20Tree.py) | Easy | Solved | Tree, Depth-First Search |
 
 </details>
