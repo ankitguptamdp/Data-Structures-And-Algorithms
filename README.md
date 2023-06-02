@@ -38,6 +38,15 @@
 </details>
 
 <details>
+<summary>Depth-First Search</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Depth-First%20Search/0226%20-%20Invert%20Binary%20Tree.py) | Easy | Solved | Tree, Depth-First Search |
+
+</details>
+
+<details>
 <summary>Greedy</summary>
 
 | # | Problem | Solution | Difficulty | Status | Tags |
