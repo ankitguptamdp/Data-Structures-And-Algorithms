@@ -53,7 +53,7 @@
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
 | 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Binary%20Search%20Tree/0108%20-%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py) | Easy | Solved | Array, Divide and Conquer, Tree |
-| 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Python3](link) | Medium | Solved | Tree, Depth-First Search |
+| 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Binary%20Search%20Tree/0230%20-%20Kth%20Smallest%20Element%20in%20a%20BST.py) | Medium | Solved | Tree, Depth-First Search |
 
 </details>
 
