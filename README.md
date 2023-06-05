@@ -47,6 +47,14 @@
 
 </details>
 
+<summary>Binary Search Tree</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python3](link) | Easy | Solved | Array, Divide and Conquer, Tree |
+
+</details>
+
 <details>
 <summary>Depth-First Search</summary>
 
