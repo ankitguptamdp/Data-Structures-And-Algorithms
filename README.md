@@ -42,7 +42,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python3](link) | Medium | Solved | Array, Binary Search, Matrix |
+| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Binary%20Search/0074%20-%20Search%20a%202D%20Matrix.py) | Medium | Solved | Array, Binary Search, Matrix |
 
 </details>
 
