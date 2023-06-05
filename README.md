@@ -38,6 +38,15 @@
 </details>
 
 <details>
+<summary>Binary Search</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python3](link) | Medium | Solved | Array, Binary Search, Matrix |
+
+</details>
+
+<details>
 <summary>Depth-First Search</summary>
 
 | # | Problem | Solution | Difficulty | Status | Tags |
