@@ -63,6 +63,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Depth-First%20Search/0110%20-%20Balanced%20Binary%20Tree.py) | Easy | Solved | Tree, Depth-First Search |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Depth-First%20Search/0226%20-%20Invert%20Binary%20Tree.py) | Easy | Solved | Tree, Depth-First Search |
+| 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Python3](link) | Medium | Solved | Array, Depth-First Search |
 | 0543 | [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Depth-First%20Search/0543%20-%20Diameter%20Of%20Binary%20Tree.py) | Easy | Solved | Tree, Depth-First Search |
 
 </details>
