@@ -10,7 +10,7 @@
   <h3 align="center">Data-Structures-and-Algorithms</h3>
 
   <p align="center">
-    A repository that contains all the Data Structures and Algorithms concepts 
+    A project that contains all the Data Structures and Algorithms concepts 
     <br />
     And solutions to various problems in Python3 stored in a structured manner !
     <br />
