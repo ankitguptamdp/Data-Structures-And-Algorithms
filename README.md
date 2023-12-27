@@ -100,6 +100,15 @@
 </details>
 
 <details>
+<summary>Stack</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| [0020](https://youtu.be/WTzjTskDFMg?si=D-FfOKHbkpe8c8vW) | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python3](link) | Easy | Solved | String, Stack |
+
+</details>
+
+<details>
 <summary>String</summary>
 
 | # | Problem | Solution | Difficulty | Status | Tags |
