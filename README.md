@@ -31,6 +31,7 @@
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Array/0026%20-%20Remove%20Duplicates%20from%20Sorted%20Array.py) | Easy | Solved | Array, Two Pointers |
+| [0027](https://youtu.be/Pcd1ii9P9ZI?si=EEfa8V-61q7IvH_X) | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python3](link) | Easy | Solved | Array, Two Pointers |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Array/0054%20-%20Spiral%20Matrix.py) | Medium | Solved | Array, Matrix, Simulation |
 
 </details>
