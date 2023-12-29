@@ -84,7 +84,7 @@
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)| [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Hash%20Table/0202%20-%20Happy%20Number.py) | Easy | Solved | Hash Table, Math, Two Pointers |
-| [0219](https://youtu.be/ypn0aZ0nrL4?si=43vkBM_l-RHIo5xo) | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Python3](link) | Easy | Solved | Array, Hash Table, Sliding Window |
+| [0219](https://youtu.be/ypn0aZ0nrL4?si=43vkBM_l-RHIo5xo) | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Hash%20Table/0219%20-%20Contains%20Duplicate%20II.py) | Easy | Solved | Array, Hash Table, Sliding Window |
 | [0290](https://youtu.be/W_akoecmCbM?si=XRVqad2jdyEclaMs) | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Hash%20Table/0290%20-%20Word%20Pattern.py) | Easy | Solved | Hash Table, String |
 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)| [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Hash%20Table/2131%20-%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words.py) | Medium | Solved | Array, Hash Table, String |
 
