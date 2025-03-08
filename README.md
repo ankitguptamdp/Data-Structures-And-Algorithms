@@ -106,9 +106,10 @@
 <details>
 <summary>Stack</summary>
 
-| # | Problem | Solution | Difficulty | Status | Tags |
-| --- | --- | --- | --- | --- | --- |
+| #                                                        | Problem                                                               | Solution                                                                                                                           | Difficulty | Status | Tags |
+|----------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|  | --- | --- |
 | [0020](https://youtu.be/WTzjTskDFMg?si=D-FfOKHbkpe8c8vW) | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Stack/0020%20-%20Valid%20Parentheses.py) | Easy | Solved | String, Stack |
+| [0155](https://youtu.be/qkLl7nAwDPo)                     | [Min Stack](https://leetcode.com/problems/min-stack/)         | [Python3](https://github.com/ankitguptamdp/Data-Structures-and-Algorithms/blob/main/Codes/Stack/0155%20-%20Min%20Stack.py)         | Medium | Solved | Stack, Design |
 
 </details>
 
