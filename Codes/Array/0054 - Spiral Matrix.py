@@ -1,3 +1,10 @@
+# Last Updated: 30-03-2025 - 08:25 PM
+# Difficulty: Medium
+# Status: Solved
+# Tags: Array, Matrix, Simulation
+
+# Time Complexity: O(m*n)
+# Space Complexity: O(1)
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
         result = []

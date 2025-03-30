@@ -2,9 +2,20 @@
 # Difficulty: Easy
 # Status: Solved
 # Tags: Array, Simulation
+
+# Brute Force
 # Time Complexity: O(n)
 # Space Complexity: O(1)
+class Solution:
+    def buildArray(self, nums: List[int]) -> List[int]:
+        output = [0]*len(nums)
+        for index in range(len(nums)):
+            output[index] = nums[nums[index]]
+        return output
 
+# Using
+# Time Complexity: O(n)
+# Space Complexity: O(1)
 class Solution:
     def buildArray(self, nums: List[int]) -> List[int]:
         for i in range(len(nums)):
