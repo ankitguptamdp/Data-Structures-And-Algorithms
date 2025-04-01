@@ -1,7 +1,7 @@
 # Last Updated: 30-03-2025 - 11:04 PM
 # Difficulty: Easy
 # Status: Solved
-# Tags: Array, String, Simulation
+# Tags: Array, Simulation, String
 
 # Time Complexity: O(n)
 # Space Complexity: O(1)
