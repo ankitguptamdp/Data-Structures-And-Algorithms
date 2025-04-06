@@ -58,7 +58,7 @@ class Solution:
                 count += 1
         return count
 
-# Bit Manipulation
+# Bit Manipulation 2
 # Time Complexity: O(n*m)
 # Space Complexity: O(1)
 class Solution:
