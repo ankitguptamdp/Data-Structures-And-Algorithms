@@ -3,7 +3,6 @@
 # Status: Solved
 # Tags: Array, Hash Table, Math
 
-# Brute Force
 # Time Complexity: O(n)
 # Space Complexity: O(n)
 class Solution:
