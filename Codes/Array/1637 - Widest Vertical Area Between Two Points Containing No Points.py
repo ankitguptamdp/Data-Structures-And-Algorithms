@@ -3,7 +3,7 @@
 # Status: Solved
 # Tags: Array, Sorting
 
-# Counting Sort
+# Sorting
 # Time Complexity: O(nlogn)
 # Space Complexity: O(1)
 class Solution:
