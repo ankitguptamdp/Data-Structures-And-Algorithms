@@ -17,3 +17,13 @@ class Solution:
             if countSpace > output:
                 output = countSpace
         return output
+
+# Split Function
+# Time Complexity: O(n^2)
+# Space Complexity: O(1)
+class Solution:
+    def mostWordsFound(self, sentences: List[str]) -> int:
+        c = 0
+        for s in sentences:
+            c = max(c, len(s.split()))
+        return c
