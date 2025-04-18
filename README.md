@@ -7,7 +7,7 @@
     <img src="Resources/Images/Data-Structures-And-Algorithms.jpg" alt="Logo" width="200" height="100">
   </a>
 
-  <h3 align="center">Data-Structures-And-Algorithms</h3>
+<h3 align="center">Data-Structures-And-Algorithms</h3>
 
   <p align="center">
     A project that contains all the Data Structures and Algorithms concepts 
@@ -25,13 +25,14 @@
 </div>
 
 <details>
-<summary>Array</summary>
+<summary><a href="https://github.com/ankitguptamdp/Data-Structures-And-Algorithms/tree/main/Codes/Array">Array</a></summary>
 
 | #                                    | Problem                                                                                                                                                           | Solution                                                                                                                                                                                         | Difficulty | Status | Tags                                                  |
 |--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|-------------------------------------------------------|
 | [0026](https://youtu.be/DEJAZBq0FDA) | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                                         | [Python3](https://github.com/ankitguptamdp/Data-Structures-And-Algorithms/blob/main/Codes/Array/0026%20-%20Remove%20Duplicates%20From%20Sorted%20Array.py)                                       | Easy       | Solved | Array, Two Pointers                                   |
 | [0027](https://youtu.be/Pcd1ii9P9ZI) | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                                                   | [Python3](https://github.com/ankitguptamdp/Data-Structures-And-Algorithms/blob/main/Codes/Array/0027%20-%20Remove%20Element.py)                                                                  | Easy       | Solved | Array, Two Pointers                                   |
 | [0054](https://youtu.be/BJnMZNwUk1M) | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                                                     | [Python3](https://github.com/ankitguptamdp/Data-Structures-And-Algorithms/blob/main/Codes/Array/0054%20-%20Spiral%20Matrix.py)                                                                   | Medium     | Solved | Array, Matrix, Simulation                             |
+| [1313](https://youtu.be/r6uJX0zD0MQ) | [Decompress Run Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)                                                           | [Python3](https://github.com/ankitguptamdp/Data-Structures-And-Algorithms/blob/main/Codes/Array/1313%20-%20Decompress%20Run%20Length%20Encoded%20List.py)                                        | Easy       | Solved | Array                                                 |
 | [1365](https://youtu.be/eHqwoWiMDfY) | [How Many Numbers Are Smaller Than The Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)                       | [Python3](https://github.com/ankitguptamdp/Data-Structures-And-Algorithms/blob/main/Codes/Array/1365%20-%20How%20Many%20Numbers%20Are%20Smaller%20Than%20The%20Current%20Number.py)              | Easy       | Solved | Array, Counting Sort, Hash Table, Sorting             |
 | [1389](https://youtu.be/Hlfs4StVd-o) | [Create Target Array In The Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)                                                   | [Python3](https://github.com/ankitguptamdp/Data-Structures-And-Algorithms/blob/main/Codes/Array/1389%20-%20Create%20Target%20Array%20In%20The%20Given%20Order.py)                                | Easy       | Solved | Array, Simulation                                     |
 | [1431](https://youtu.be/xBpYKQzjjnM) | [Kids With The Greatest Number Of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)                                               | [Python3](https://github.com/ankitguptamdp/Data-Structures-And-Algorithms/blob/main/Codes/Array/1431%20-%20Kids%20With%20The%20Greatest%20Number%20Of%20Candies.py)                              | Easy       | Solved | Array                                                 |
