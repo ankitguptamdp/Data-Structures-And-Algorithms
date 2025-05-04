@@ -17,6 +17,8 @@ class Solution:
         return count
 
 # Using Set
+# Time Complexity: O(n^2)
+# Space Complexity: O(n)
 class Solution:
     def arithmeticTriplets(self, nums: List[int], diff: int) -> int:
         count = 0
