@@ -15,3 +15,13 @@ class Solution:
                     if nums[j] - nums[i] == diff and nums[k] - nums[j] == diff:
                         count += 1
         return count
+
+# Using Set
+class Solution:
+    def arithmeticTriplets(self, nums: List[int], diff: int) -> int:
+        count = 0
+        hashSet = set(nums)
+        for num in nums:
+            if num - diff in hashSet and num - 2 * diff in hashSet:
+                count += 1
+        return count
